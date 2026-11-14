@@ -13,7 +13,7 @@ The current published release candidate is **`0.1.0-rc.2`** under Maven group `i
 | ML Kit | `io.github.sundeepkmallick:agent-mlkit:0.1.0-rc.2` |
 | Legacy Gemini Nano | `io.github.sundeepkmallick:agent-gemini-nano:0.1.0-rc.2` |
 
-See the [Maven Central namespace](https://central.sonatype.com/namespace/io.github.sundeepkmallick) for publication listings.
+See the [Developer examples](examples.md) for usage patterns with this release. See the [Maven Central namespace](https://central.sonatype.com/namespace/io.github.sundeepkmallick) for publication listings.
 
 ## Maturity and limitations
 
