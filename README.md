@@ -37,9 +37,14 @@ dependencies {
 
 See [Installation](docs/installation.md) for Gradle setup and module selection.
 
+## Developer examples
+
+Start with the [developer examples guide](docs/examples.md) for copyable Kotlin patterns covering core tools and policies, Firebase AI Logic + ADK, LiteRT-LM + ADK, Gemini Nano + ML Kit, streaming and sessions. The [examples directory](examples/) contains individual snippets.
+
 ## Documentation
 
 - [Installation and dependency setup](docs/installation.md)
+- [Developer examples](docs/examples.md)
 - [Modules and backend selection](docs/modules.md)
 - [Architecture and lifecycle](docs/architecture.md)
 - [Tool development](docs/tool-development.md)
