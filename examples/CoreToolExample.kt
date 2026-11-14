@@ -7,6 +7,7 @@ import kotlinx.serialization.json.putJsonArray
 import kotlinx.serialization.json.putJsonObject
 import kotlinx.serialization.json.add
 import kotlinx.serialization.json.jsonPrimitive
+import kotlinx.serialization.json.int
 
 /**
  * A host-owned, read-only tool. Replace NotesRepository with your own repository.
