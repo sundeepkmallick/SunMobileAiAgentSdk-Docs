@@ -54,6 +54,10 @@ After adding dependencies, run your normal Gradle dependency resolution/build ta
 
 Use the actual module path for your application if it is not `:app`.
 
+## Next: working examples
+
+See the [Developer examples](examples.md) for complete patterns using Firebase AI Logic, LiteRT-LM, Gemini Nano, tools, policies, streaming and sessions.
+
 ## Minimal agent flow
 
 The following illustrates the core composition shape. Your app supplies a backend provider, tool registry and policy implementation:
