@@ -15,6 +15,8 @@ The offline Research Assistant sample is part of the SDK source project and is n
 
 ## Choosing an integration
 
+For copyable setup and usage snippets, see the [Developer examples](examples.md).
+
 ### Core only
 
 Use `agent-core` when you provide your own backend implementation or want to build against the backend-neutral contracts.
